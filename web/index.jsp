@@ -28,6 +28,7 @@
 
         <%
         //enviado do github
+        //enviado do netbeans
             try {
                 out.print("<table border= '0'>");
                 out.print("<tr>");
